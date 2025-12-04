@@ -9,3 +9,4 @@ penguins |>
   geom_point() +
   theme_minimal()
 
+summary(penguins$island)
